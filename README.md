@@ -1,4 +1,7 @@
-# EEUWU
+**Note: this repo outdated and will no longer be maintained.  
+For updated EEUData go to https://github.com/kubapolish/EEUData**
+
+# EEWData
 various stuff for eeuniverse/eeworlds
 
 EEUniverse.Library changed to work with websocket-sharp .net framework 4.7.2
